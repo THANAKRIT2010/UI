@@ -20,7 +20,7 @@ LocalPlayer.CharacterAdded:Connect(function(newChar)
     fakeSound.Parent = newChar
 end)
 
-local CorrectKey = "ขอเบิร์นหีหน่อย"
+local CorrectKey = "1669"
 local SavedInput = ""
 local Unlocked = false
 
